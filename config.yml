@@ -1,0 +1,6 @@
+title: Eduardo Masia
+logo: "Pic.png"
+description: Data Scientist
+theme: jekyll-theme-minimal 
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
